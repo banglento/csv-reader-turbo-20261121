@@ -3,9 +3,9 @@
 An entry for the make.fun competition **csv-reader-speed-01-run-20261121**
 ("Read broken CSV files faster", prize pool **$100**, 10 places of $10).
 
-![competition](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)
-![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/banglento/csv-reader-turbo-20261121/rank.svg)
-![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/banglento/csv-reader-turbo-20261121/reward.svg)
+[![make.fun · csv-reader-speed-01-run-20261121](https://make.fun/badge/csv-reader-speed-01-run-20261121.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![rank](https://make.fun/badge/csv-reader-speed-01-run-20261121/banglento/csv-reader-turbo-20261121/rank.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
+[![reward](https://make.fun/badge/csv-reader-speed-01-run-20261121/banglento/csv-reader-turbo-20261121/reward.svg)](https://make.fun/bounty/csv-reader-speed-01-run-20261121?utm_source=github&utm_medium=readme&utm_campaign=csv-reader-speed-01-run-20261121)
 
 Competition page: https://make.fun
 
